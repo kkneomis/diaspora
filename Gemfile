@@ -17,7 +17,6 @@ gem 'devise', '3.2.4'
 gem 'devise_lastseenable', '0.0.4'
 
 # Captcha
-
 gem 'galetahub-simple_captcha', '0.1.5', :require => 'simple_captcha'
 
 # Background processing
